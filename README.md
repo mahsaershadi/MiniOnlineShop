@@ -5,7 +5,7 @@ The goal of this project is to practice backend development fundamentals such as
 
 ---
 
-## 🚀 Features
+## Features
 
 - Built with **Express.js** and **TypeScript**  
 - Simple and modular project structure  
@@ -15,7 +15,7 @@ The goal of this project is to practice backend development fundamentals such as
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 MiniWebsite/
@@ -27,7 +27,7 @@ MiniWebsite/
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Node.js**
 - **Express.js**
@@ -37,7 +37,7 @@ MiniWebsite/
 - **Authentication & Authorization using JWT**
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add authentication and user management  
 - Connect to a database (PostgreSQL)  
@@ -47,7 +47,6 @@ MiniWebsite/
 
 ---
 
-## 📧 Contact
+## Contact
 
 Created by [Mahsa Ershadi](https://github.com/mahsaershadi).  
-Feel free to reach out if you have any questions!
